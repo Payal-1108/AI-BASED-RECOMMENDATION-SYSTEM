@@ -44,4 +44,4 @@ Development Environment: Eclipse IDE or IntelliJ IDEA
 Data Sources: Sample datasets (e.g., MovieLens dataset for movie recommendations or e-commerce product ratings).
 
 #OUTPUT OF THE TASK
-
+![Image](https://github.com/user-attachments/assets/d78d27f3-8125-4772-9106-8b02b9e04874)
